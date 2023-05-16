@@ -39,7 +39,7 @@ Fog computing, a complementary concept, acts as the intermediary network links b
 ## Host Runtimes
 
 - Primary: The main host runtime for `O2.services` is the Elixir/OTP runtime.
-- Experimental: An experimental JavaScript runtime is available for running an `O2.services` host in a browser or embedding in a JavaScript V8 host.
+- Experimental: An experimental JavaScript runtime is available for running an `O2.services` host in a browser or embedding in a JavaScript.
 
 ## System Characteristics
 
