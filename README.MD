@@ -53,3 +53,5 @@ Fog computing, a complementary concept, acts as the intermediary network links b
 ## Conclusion
 
 `O2.services` presents a new paradigm in software development, enabling the creation of highly portable and scalable applications that can run on a wide variety of platforms. Its design principles and architecture make it a robust solution for modern distributed computing needs.
+
+[Presentation](https://docs.google.com/presentation/d/13AF-Tdij6v04uhQBPpdRNSfho5ynyMCxpT5iG3pyu-Y/edit#slide=id.g24481dc1e65_0_95)
